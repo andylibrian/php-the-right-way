@@ -10,7 +10,7 @@ bermaksud untuk mengenalkan _programmer_ PHP baru kepada hal-hal yang tidak mere
 
 Bagi _programmer_ _senior_, tulisan ini dapat menjadi penyegar pada apa yang telah
 mereka lakukan selama ini. Tulisan ini juga akan memperbarui cara-cara lama yang sudah
-terlanjur mendarahdaging.
+terlanjur mendarah daging.
 
 Dokumen ini akan terus diperbarui dengan informasi dan contoh-contoh terbaru sehingga akan terus bermanfaat.
 
